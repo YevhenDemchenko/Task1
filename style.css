@@ -1,12 +1,12 @@
 .root {
 	position: relative;
 	display: inline-block;
-  vertical-align: top;
+  	vertical-align: top;
 	border: 1px solid #48AAE6;
 	margin: 55px;
 }
 .root table {
-  border-collapse: collapse;
+  	border-collapse: collapse;
 }
 .root table td {
 	background-color: #48AAE6;
@@ -26,13 +26,13 @@
 	transition: left .35s ease, top .65s ease, opacity .65s ease;
 }
 .root button:hover {
-  cursor: pointer;
+  	cursor: pointer;
 	opacity: .75;
-  transition: 0.3s;
+ 	transition: 0.3s;
 }
 .root button:not(:hover) {
-  transition: 0.2s;
-  }
+  	transition: 0.2s;
+ }
 .root .addRow {
  	background-color: #F3A500;
 	top: 100.5%;
