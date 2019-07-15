@@ -126,4 +126,4 @@ class Square {
 }
 
 let square = new Square(5, 5);
-square.show();
+square.show(); 
